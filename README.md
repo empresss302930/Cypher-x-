@@ -1,4 +1,38 @@
 
+# 🔑 Pairing Servers
+
+<p align="center">
+
+<a href="https://pair.cypherxbot.space/">
+<img src="https://img.shields.io/badge/PAIR%201-ff0050?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://pair2.cypherxbot.space/">
+<img src="https://img.shields.io/badge/PAIR%202-ff6a00?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://pair3.cypherxbot.space/">
+<img src="https://img.shields.io/badge/PAIR%203-ffb300?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 📷 QR Scan Servers
+
+<p align="center">
+
+<a href="https://pair.cypherxbot.space/scan">
+<img src="https://img.shields.io/badge/SCAN%201-ff0050?style=for-the-badge&logo=qrcode"/>
+</a>
+
+<a href="https://pair2.cypherxbot.space/scan">
+<img src="https://img.shields.io/badge/SCAN%202-ff6a00?style=for-the-badge&logo=qrcode"/>
+</a>
+
+<a href="https://pair3.cypherxbot.space/scan">
+<img src="https://img.shields.io/badge/SCAN%203-ffb300?style=for-the-badge&logo=qrcode"/>
+</a>
 ⚠️ **Note**
 
 This download provides a **direct ZIP file**.
